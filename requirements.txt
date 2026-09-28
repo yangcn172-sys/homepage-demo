@@ -1,0 +1,11 @@
+pdfplumber
+sentence-transformers
+faiss-cpu
+rank_bm25
+jieba
+streamlit
+openai
+pandas
+requests
+tqdm
+numpy
